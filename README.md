@@ -67,8 +67,11 @@ and using an external API. The front end is implemented with NextJS, TypeScript 
 
 
 ### 🤝 **Connect with Me**
-- 📧 Email: [gmail](mailto:m0583295188@gmail.com)
-- 💼 GitHub: [michalw100](https://github.com/michalw100)
+<p align="left">
+<a href="mailto:m0583295188@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/michalw100"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michalw100&label=Profile%20views&color=0e75b6&style=flat" alt="michalw100" /> </p>
 
