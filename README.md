@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michal Walden</h1>
 
-💻 Hi there! I'm Michal, a passionate Full Stack Developer with a knack for turning ideas into functional and impactful applications. I love exploring new technologies and solving challenges creatively.
+💻 Hi there! I'm Michal, a passionate Software Developer with a knack for turning ideas into functional and impactful applications. I love exploring new technologies and solving challenges creatively.
 
 <br/>
 
