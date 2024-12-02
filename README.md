@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Michal Walden</h1>
+
 💻 Hi there! I'm Michal, a passionate Full Stack Developer with a knack for turning ideas into functional and impactful applications. I love exploring new technologies and solving challenges creatively.
+
 <br/>
+
 🚀 Always eager to learn, I’m constantly expanding my skills and striving to deliver beyond expectations. When I’m not coding, you’ll find me diving into new frameworks, collaborating on open-source projects, or refining my designs in Figma.
 
+<br/>
+
 🌟 Let’s connect and create something amazing together!
+
 
 
 ---
