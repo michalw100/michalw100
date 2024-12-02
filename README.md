@@ -39,7 +39,7 @@ and using an external API. The front end is implemented with NextJS, TypeScript 
 ---
 
 ### 🎓 **Education**
-#### **Advanced Full Stack Web Development | Seminar Machon Lev & Elevation (2024)**
+#### **Advanced Full Stack Web Development | Elevation (2024)**
 - Intensive 3-month Bootcamp covering advanced **MERN stack** technologies.
 - Final Project: Complete stack application with **Node.js**, **Express**, **MongoDB**, **Next.js**, **TypeScript**, and tested with **Burp Suite**.
 
