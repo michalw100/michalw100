@@ -62,10 +62,6 @@ and using an external API. The front end is implemented with NextJS, TypeScript 
 
 ---
 
-### 🌟 **Languages and Tools**
-<p align="left">
-  <!-- Add the icons section here as needed -->
-</p>
 
 ### 🤝 **Connect with Me**
 - 📧 Email: [m0583295188@gmail.com](mailto:m0583295188@gmail.com)
