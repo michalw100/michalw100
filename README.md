@@ -68,6 +68,7 @@ and using an external API. The front end is implemented with NextJS, TypeScript 
 </p>
 
 ### 🤝 **Connect with Me**
+- 📧 Email: [m0583295188@gmail.com](mailto:m0583295188@gmail.com)
 - 💼 GitHub: [michalw100](https://github.com/michalw100)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michalw100&label=Profile%20views&color=0e75b6&style=flat" alt="michalw100" /> </p>
