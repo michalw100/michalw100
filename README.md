@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Michal Walden</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
-
+Graduate of the Excellence Program in the Academic Track at the Lev Institute and a Full Stack Web Developer 
+Bootcamp graduate with proven knowledge of the entire MERN stack and beyond. With strong self-motivation and 
+a passion for exploring different technologies, I have consistently excelled in diverse projects by taking initiative and 
+developing advanced solutions beyond basic requirements. 
+My proactive approach includes researching and implementing new topics as necessary. 
+I am seeking a challenging role in technological development to utilize my skills and achieve professional growth.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michalw100&label=Profile%20views&color=0e75b6&style=flat" alt="michalw100" /> </p>
 
 ---
@@ -17,7 +22,7 @@
 
 ---
 
-### 🏢 **Work Experience**   [GitHub](https://github.com/michalw100/E2E-FINAL-PROJECT).
+### 🏢 **Work Experience**   [SHEKROUN BAK & SENIOR website](https://github.com/michalw100/E2E-FINAL-PROJECT).
 #### **Full Stack Developer | SHEKROUN BAK & SENIOR (2024)** 
 - Built a customized website to manage company services.
 - Development: **Node.js**, **React**, **JavaScript**, **MySQL**.
@@ -25,7 +30,7 @@
 - Added multilingual support and designed a responsive UI using **Figma**.
 - Focused on **information security standards** and implemented user permissions.
 
-#### **Bootcamp Project: eCommerce Platform**   [GitHub](https://github.com/eCommerce2580/Project).
+#### **Bootcamp Project: eCommerce Platform**   [eCommerce Platform](https://github.com/eCommerce2580/Project).
 - An industry-based intensive 3-month coding Bootcamp that covered advanced full stack technologies and 
 methodologies and beyond. 
 - A Built a number of end-to-end projects from scratch while adhering to solid development. 
