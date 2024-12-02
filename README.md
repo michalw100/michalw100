@@ -71,21 +71,6 @@ and using an external API. The front end is implemented with NextJS, TypeScript 
   <!-- Add the icons section here as needed -->
 </p>
 
----
-
-### 📈 **GitHub Stats**
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michalw100&show_icons=true&locale=en&layout=compact" alt="michalw100" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=michalw100&show_icons=true&locale=en" alt="michalw100" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michalw100&" alt="michalw100" />
-</p>
-
----
-
 ### 🤝 **Connect with Me**
 - 💼 GitHub: [michalw100](https://github.com/michalw100)
 
