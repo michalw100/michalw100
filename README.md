@@ -46,11 +46,6 @@ and using an external API. The front end is implemented with NextJS, TypeScript 
 #### **Software Engineering Studies (2022–2024) | Lev Institute**
 - **B.Sc. Equivalent in Computer Science** with a 95% GPA.
 - Completed extension courses: **Artificial Intelligence** and **Information Security**.
-
-#### **High School in Computer Science (2018–2022)**
-- Graduated with highest honors.
-- Final Project in **C#** for matriculation.
-
 ---
 
 ### 💡 **Professional Knowledge**
