@@ -34,11 +34,7 @@ I am seeking a challenging role in technological development to utilize my skill
 methodologies and beyond. 
 - A Built a number of end-to-end projects from scratch while adhering to solid development. 
 - Final Project: An entire stack project, combining a NodeJS server implemented with Express, and MongoDB, 
-and using an external API. The front end is implemented with NextJS, TypeScript and tested by Burp Suite. 
-
-#### **Full Stack Web Project – Social Sharing System**
-- Developed end-to-end features using **Node.js**, **React**, **JavaScript**, and **MySQL**.
-- Divided the codebase into modules and layers for maintainability.
+and using an external API. The front end is implemented with NextJS, TypeScript and tested by Burp Suite.
 
 ---
 
