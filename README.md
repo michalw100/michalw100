@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Michal Walden</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
-Graduate of the Excellence Program in the Academic Track at the Lev Institute and a Full Stack Web Developer 
-Bootcamp graduate with proven knowledge of the entire MERN stack and beyond. With strong self-motivation and 
-a passion for exploring different technologies, I have consistently excelled in diverse projects by taking initiative and 
-developing advanced solutions beyond basic requirements. 
-My proactive approach includes researching and implementing new topics as necessary. 
-I am seeking a challenging role in technological development to utilize my skills and achieve professional growth.
+💻 Hi there! I'm Michal, a passionate Full Stack Developer with a knack for turning ideas into functional and impactful applications. Whether it's crafting sleek front-end designs with React and TypeScript or building robust back-end systems with Node.js and MongoDB, I love exploring new technologies and solving challenges creatively.
+
+🚀 Always eager to learn, I’m constantly expanding my skills and striving to deliver beyond expectations. When I’m not coding, you’ll find me diving into new frameworks, collaborating on open-source projects, or refining my designs in Figma.
+
+🌟 Let’s connect and create something amazing together!
+
 
 ---
 
